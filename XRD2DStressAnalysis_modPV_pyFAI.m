@@ -8410,6 +8410,42 @@ if ~isempty(csvFiles)
     end
 end
 
+% ── CSV-Zeitabdeckung pruefen ────────────────────────────────────────
+if isfield(h, 'heaterData') && ~isempty(h.heaterData) && ...
+   isfield(h.heaterData, 'datetime') && ~isempty(h.heaterData.datetime)
+    hd_check   = h.heaterData;
+    csv_start  = min(hd_check.datetime(~isnat(hd_check.datetime)));
+    csv_end    = max(hd_check.datetime(~isnat(hd_check.datetime)));
+    xrd_start  = dataset(1).datetime;
+    xrd_end    = dataset(end).datetime;
+
+    covers = (csv_start <= xrd_start) && (csv_end >= xrd_end);
+
+    fprintf('\n── Zeitabgleich CSV / XRD ──────────────────────────────\n');
+    fprintf('  Heater CSV:    %s  –  %s\n', datestr(csv_start,'HH:MM:SS'), datestr(csv_end,'HH:MM:SS'));
+    fprintf('  XRD Messungen: %s  –  %s\n', datestr(xrd_start,'HH:MM:SS'), datestr(xrd_end,'HH:MM:SS'));
+    if covers
+        fprintf('  Status: OK — CSV deckt gesamten XRD-Zeitraum ab.\n');
+    else
+        if csv_end < xrd_start || csv_start > xrd_end
+            fprintf('  Status: FEHLER — CSV und XRD ueberlappen sich NICHT!\n');
+            warning('loaddatasetcallback:TimeGap', ...
+                'Heater-CSV und XRD-Messungen ueberlappen sich nicht. Temperaturzuordnung wird fehlerhaft sein.');
+        else
+            fprintf('  Status: WARNUNG — CSV deckt XRD-Zeitraum nur teilweise ab.\n');
+            if csv_start > xrd_start
+                fprintf('    CSV beginnt %.1f min nach erster XRD-Messung.\n', ...
+                    seconds(csv_start - xrd_start)/60);
+            end
+            if csv_end < xrd_end
+                fprintf('    CSV endet %.1f min vor letzter XRD-Messung.\n', ...
+                    seconds(xrd_end - csv_end)/60);
+            end
+        end
+    end
+    fprintf('───────────────────────────────────────────────────────\n\n');
+end
+
 % Initial plotten
 guidata(hObj, h);
 h = updateTimeSeriesPlot(h);

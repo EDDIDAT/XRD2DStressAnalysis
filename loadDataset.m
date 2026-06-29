@@ -44,12 +44,14 @@ for i = 1:N
         dataset(i).poni = struct();
     end
 
-    % CBF-Pfad (lazy)
+    % CBF-Pfad (lazy) + Zeitstempel aus CBF-Header
     cbfPath = fullfile(dataDir, ['image_' tag '.cbf']);
     if isfile(cbfPath)
         dataset(i).cbfPath = cbfPath;
+        dataset(i).cbfDatetime = readCBFTimestamp(cbfPath);
     else
         dataset(i).cbfPath = '';
+        dataset(i).cbfDatetime = NaT;
     end
     dataset(i).img       = [];
     dataset(i).imgLoaded = false;
@@ -72,7 +74,39 @@ for i = 1:N
     end
 end
 
-% ── 3. Relative Zeit ──────────────────────────────────────────────────
+% ── 3. Zeitquelle waehlen: CBF-Header hat Prioritaet ─────────────────
+nCBFTime = sum(~isnat([dataset.cbfDatetime]));
+nLogTime = sum(~isnat([dataset.datetime]));
+
+if nCBFTime > 0
+    % Pruefe Abweichung zwischen log_all und CBF
+    deviations = NaN(N, 1);
+    for i = 1:N
+        if ~isnat(dataset(i).cbfDatetime) && ~isnat(dataset(i).datetime)
+            deviations(i) = abs(seconds(dataset(i).cbfDatetime - dataset(i).datetime));
+        end
+    end
+    medianDev = median(deviations, 'omitnan');
+
+    if isfinite(medianDev) && medianDev > 5
+        fprintf('loadDataset: WARNUNG — log_all.txt Zeiten weichen um %.0f s (%.1f min) von CBF-Header ab!\n', ...
+            medianDev, medianDev/60);
+        fprintf('loadDataset: Verwende CBF-Header-Zeitstempel (zuverlaessiger).\n');
+        for i = 1:N
+            if ~isnat(dataset(i).cbfDatetime)
+                dataset(i).datetime = dataset(i).cbfDatetime;
+            end
+        end
+    else
+        fprintf('loadDataset: CBF- und log_all-Zeiten stimmen ueberein (Abweichung %.1f s).\n', ...
+            medianDev);
+    end
+    fprintf('loadDataset: %d/%d Messungen mit CBF-Zeitstempel.\n', nCBFTime, N);
+else
+    fprintf('loadDataset: Keine CBF-Zeitstempel gefunden, verwende log_all.txt.\n');
+end
+
+% Relative Zeit berechnen
 t0 = dataset(1).datetime;
 for i = 1:N
     dataset(i).time_s = seconds(dataset(i).datetime - t0);
