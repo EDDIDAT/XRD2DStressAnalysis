@@ -8393,7 +8393,17 @@ if ~isempty(csvFiles)
 
             % HeaterColPopup mit CSV-Spalten befüllen (ohne 'Time')
             colOpts = extraCols_hd(:);
-            set(h.HeaterColPopup, 'String', colOpts, 'Value', 1);
+            % Automatisch eine Temperaturspalte vorwaehlen
+            defaultVal = 1;
+            tempKeywords = {'TSample','T_actual','T_sample','Temperature','PV'};
+            for tk = 1:numel(tempKeywords)
+                idx_tk = find(contains(colOpts, tempKeywords{tk}, 'IgnoreCase', true), 1);
+                if ~isempty(idx_tk)
+                    defaultVal = idx_tk;
+                    break
+                end
+            end
+            set(h.HeaterColPopup, 'String', colOpts, 'Value', defaultVal);
         end
     catch ME
         warning('loaddatasetcallback: CSV-Fehler: %s', strrep(ME.message, '%', '%%'));
