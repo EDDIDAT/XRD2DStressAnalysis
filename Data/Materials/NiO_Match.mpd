@@ -1,0 +1,34 @@
+Dateiname:  NiO.mpd
+ 
+Elementliste:
+Ni  O   
+ 
+Stoechiometrieliste:
+  1.00    1.00   
+ 
+Ordnungszahlliste:
+  28.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  58.64    16.00   
+ 
+Materialdichte (in g/cm^3):
+  6.813
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.4176
+ 
+hkl- und d-Wertliste: 
+110 0.2411361
+111 0.2088300
+200 0.1476651
+211 0.1259292
+220 0.1205681
+310 0.1044150
+311 0.0958178
+222 0.0933916
+111 0.0852545
+111 0.0803787

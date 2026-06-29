@@ -1,0 +1,35 @@
+Dateiname:  TiAlN_hex.mpd
+ 
+Elementliste:
+Ti  Al  N   
+ 
+Stoechiometrieliste:
+  2.00    1.00    1.00   
+ 
+Ordnungszahlliste:
+  22.    13.     7.   
+ 
+Atomgewichtsliste (in g/mol):
+  47.88    26.98    14.01   
+ 
+Materialdichte (in g/cm^3):
+  4.340
+ 
+Gittertyp:
+hcp
+ 
+Gitterparameter (in nm):
+ 0.298400   1.356700 
+ 
+hkl- und d-Wertliste:
+002   0.680
+100   0.25870
+101   0.25360
+103   0.22510
+104   0.20550
+106   0.17020
+107   0.15500
+110   0.14920
+114   0.13660
+109   0.13000
+116   0.12460

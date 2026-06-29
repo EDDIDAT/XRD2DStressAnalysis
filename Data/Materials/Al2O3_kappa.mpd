@@ -1,0 +1,48 @@
+Dateiname:  Al2O3_kappa.mpd
+ 
+Elementliste:
+Al  O   
+ 
+Stoechiometrieliste:
+  2.00    3.00   
+ 
+Ordnungszahlliste:
+  13.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  26.98    16.00   
+ 
+Materialdichte (in g/cm^3):
+  3.749
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+0.48437   0.833   0.8954
+ 
+hkl- und d-Wertliste:
+011   0.20637 
+002   0.20386
+110   0.20330
+020   0.19718
+111   0.19718
+120   0.19131
+112   0.18965
+022   0.18882
+121   0.18806
+013   0.18746
+031   0.18709
+122   0.18345
+113   0.18263
+200   0.18263
+130   0.17883
+201   0.17592
+131   0.17509
+210   0.17140
+211   0.16901
+004   0.16439
+123   0.16398
+202   0.16107
+132   0.15850
+220   0.15790

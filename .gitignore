@@ -1,0 +1,62 @@
+# MATLAB autosave
+*.asv
+*.m~
+*.autosave
+
+# Compiled MEX
+*.mex*
+
+# Packaged apps
+*.mlappinstall
+*.mltbx
+*.ctf
+
+# Deployable archives
+slprj/
+sccprj/
+codegen/
+.buildtool/
+
+# Cache
+*.slxc
+.MATLABDriveTag
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Data outputs (user-generated)
+*.npz
+*_caked.mat
+*_ring_det.mat
+*_ring_peaks.mat
+*_caked_mask.mat
+*_raw_stack.mat
+*_meta.json
+*_debug_mask.mat
+
+# Proposal drafts (confidential)
+ScienceServe_Proposal_*.docx
+*_DRAFT*.docx
+
+# OS files
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Nextcloud / sync
+.nextcloudsync.log
+.sync-exclude.lst
+
+# Backup files
+*_Backup_*
+*_backup_*
+*_bkp*
+*_DiskStation_*
+
+# Large test data
+*.tif
+*.cbf

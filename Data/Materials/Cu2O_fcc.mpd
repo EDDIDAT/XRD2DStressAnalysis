@@ -1,0 +1,22 @@
+Dateiname:  Cu2O_fcc.mpd
+ 
+Elementliste:
+Cu  O   
+ 
+Stoechiometrieliste:
+  2.00    1.00   
+ 
+Ordnungszahlliste:
+  29.    8.   
+ 
+Atomgewichtsliste (in g/mol):
+  63.55    16.00   
+ 
+Materialdichte (in g/cm^3):
+  6.00
+ 
+Gittertyp:
+ fcc
+ 
+Gitterparameter (in nm):
+ 0.426 

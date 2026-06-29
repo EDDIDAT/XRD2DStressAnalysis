@@ -1,0 +1,36 @@
+Dateiname:  B2-TiNi.mpd
+ 
+Elementliste:
+Ti  Ni   
+ 
+Stoechiometrieliste:
+  1.00    1.00   
+ 
+Ordnungszahlliste:
+  22.    28.   
+ 
+Atomgewichtsliste (in g/mol):
+  47.88    58.69   
+ 
+Materialdichte (in g/cm^3):
+  6.700
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+100   0.299800 
+110   0.211990 
+111   0.173090 
+200   0.149900 
+210   0.134070 
+211   0.122390 
+220   0.106000 
+300   0.099930 
+221   0.099930 
+310   0.094810 
+311   0.090390 
+222   0.086540 

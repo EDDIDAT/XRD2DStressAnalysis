@@ -1,0 +1,41 @@
+Dateiname:  NaCrO2.mpd
+ 
+Elementliste:
+Na Cr O   
+ 
+Stoechiometrieliste:
+  1.00 1.00 2.00  
+ 
+Ordnungszahlliste:
+  11. 24. 8.   
+ 
+Atomgewichtsliste (in g/mol):
+  22.99  52.00	16.00   
+ 
+Materialdichte (in g/cm^3):
+  4.358
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.2973   1.5968
+ 
+hkl- und d-Wertliste:
+003    0.532
+006    0.2662
+101    0.2542
+012    0.2451
+104    0.2164
+015    0.2005
+107    0.17070
+018    0.15780
+110    0.14870
+113    0.14320
+1010   0.1357
+0012   0.1331
+116    0.1298
+021    0.1284
+202    0.1271
+0111   0.1265
+024    0.1226

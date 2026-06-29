@@ -1,0 +1,42 @@
+Dateiname:  Si_hex.mpd
+ 
+Elementliste:
+Si   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  14.   
+ 
+Atomgewichtsliste (in g/mol):
+  28.09   
+ 
+Materialdichte (in g/cm^3):
+  2.38
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.38000   0.626900
+
+hkl- und d-Wertliste:
+100   0.32909 
+002   0.31345 
+101   0.29138
+102   0.22697
+110   0.19000
+103   0.17640 
+200   0.16454
+112   0.16248
+201   0.15915
+202   0.14569
+104   0.14149
+203   0.12927
+210   0.12438
+211   0.12200
+105   0.11716
+212   0.11561
+204   0.11348
+300   0.10969

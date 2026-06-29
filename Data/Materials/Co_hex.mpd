@@ -1,0 +1,34 @@
+Dateiname:  Co_hex.mpd
+ 
+Elementliste:
+Cr   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  27.   
+ 
+Atomgewichtsliste (in g/mol):
+  58.933   
+ 
+Materialdichte (in g/cm^3):
+  8.9
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+100   0.216500 
+002   0.202300 
+101   0.191000 
+102   0.148000 
+110   0.125200 
+103   0.114900 
+200   0.108350 
+112   0.106600 
+201   0.104700 
+004   0.101500 

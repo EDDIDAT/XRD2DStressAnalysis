@@ -1,0 +1,32 @@
+Dateiname:  CuNi.mpd
+ 
+Elementliste:
+Cu   Ni
+ 
+Stoechiometrieliste:
+  1.00   1.00  
+ 
+Ordnungszahlliste:
+  29.   28.
+ 
+Atomgewichtsliste (in g/mol):
+  63.50   58.71
+ 
+Materialdichte (in g/cm^3):
+  8.970
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified 
+ 
+hkl- und d-Wertliste:
+111 0.20574
+200 0.17818
+202 0.12599
+311 0.10745
+222 0.10287
+400 0.08909
+313 0.08175
+402 0.07968

@@ -1,0 +1,47 @@
+Dateiname: NaFeO2.mpd
+
+Elementliste: 
+   Na   Fe   O
+
+Stoechiometrieliste: 
+   1   1   2
+
+Ordnungszahlliste: 
+   11   26   8
+
+Atomgewichtsliste (in g/mol): 
+   22.9898   55.847   15.9994
+
+Materialdichte (in g/cm^3): 
+  4.341
+
+Gittertyp: 
+none
+
+Gitterparameter (in nm): 
+   0.30221   1.6082
+
+hkl- und d-Wertliste: 
+003 0.53606
+006 0.26803
+101 0.25832
+012 0.24887
+104 0.21934
+015 0.203
+009 0.17869
+107 0.17266
+018 0.15942
+110 0.1511
+113 0.14544
+1010 0.13702
+0012 0.13401
+116 0.13163
+021 0.13043
+202 0.12916
+0111 0.12763
+024 0.12444
+205 0.12121
+119 0.11538
+027 0.11371
+1013 0.11184
+208 0.10967

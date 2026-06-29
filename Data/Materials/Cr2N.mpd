@@ -1,0 +1,35 @@
+Dateiname: Cr2N.mpd
+
+Elementliste: 
+   Cr   N
+
+Stoechiometrieliste: 
+   2   1
+
+Ordnungszahlliste: 
+   24   7
+
+Atomgewichtsliste (in g/mol): 
+   51.996   14.0067
+
+Materialdichte (in g/cm^3): 
+  6.539
+
+Gittertyp: 
+none
+
+Gitterparameter (in nm): 
+   0.48113   0.44841
+
+hkl- und d-Wertliste: 
+101 0.3052
+110 0.24057
+002 0.22419
+111 0.212
+200 0.20832
+201 0.18888
+221 0.11619
+004 0.11209
+222 0.106
+412 0.084258
+115 0.084032

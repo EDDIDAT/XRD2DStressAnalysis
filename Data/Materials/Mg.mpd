@@ -1,0 +1,44 @@
+Dateiname:  Mg.mpd
+ 
+Elementliste:
+Mg   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  12.   
+ 
+Atomgewichtsliste (in g/mol):
+  24.31   
+ 
+Materialdichte (in g/cm^3):
+  1.736
+ 
+Gittertyp:
+hcp
+ 
+Gitterparameter (in nm):
+ 0.320936   0.521120 
+ 
+hkl- und d-Wertliste:
+100   0.277820 
+002   0.260500 
+101   0.245190 
+102   0.190020 
+110   0.160460 
+103   0.147300 
+200   0.138980 
+112   0.136630 
+201   0.134300 
+004   0.130270 
+202   0.122630 
+104   0.117970 
+203   0.108540 
+210   0.105050 
+211   0.102990 
+114   0.101160 
+105   0.097590 
+212   0.097420 
+204   0.095050 
+300   0.092650

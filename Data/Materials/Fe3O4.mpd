@@ -1,0 +1,22 @@
+Dateiname:  Fe3O4.mpd
+ 
+Elementliste:
+Fe  O   
+ 
+Stoechiometrieliste:
+  3.00    4.00   
+ 
+Ordnungszahlliste:
+  26.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  55.85    16.00   
+ 
+Materialdichte (in g/cm^3):
+  5.059
+ 
+Gittertyp:
+fcc
+ 
+Gitterparameter (in nm):
+ 0.839300

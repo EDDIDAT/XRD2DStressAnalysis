@@ -1,0 +1,31 @@
+Dateiname: CuSn.mpd
+
+Elementliste: 
+   Cu   Sn
+
+Stoechiometrieliste: 
+   1   1
+
+Ordnungszahlliste: 
+   29   50
+
+Atomgewichtsliste (in g/mol): 
+   63.546   118.69
+
+Materialdichte (in g/cm^3): 
+  22.916
+
+Gittertyp: 
+none
+
+Gitterparameter (in nm): 
+   0.30261
+
+hkl- und d-Wertliste: 
+101	0.21398
+200	0.15130
+211	0.12354
+202	0.10699
+301	0.09569
+222	0.08736
+321	0.08088

@@ -1,0 +1,38 @@
+Dateiname:  ZnO.mpd
+ 
+Elementliste:
+Zn  O   
+ 
+Stoechiometrieliste:
+  1.00    1.00   
+ 
+Ordnungszahlliste:
+  30.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  65.39    16.00   
+ 
+Materialdichte (in g/cm^3):
+  5.658
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+100   0.281000 
+002   0.260000 
+303   0.112770 
+101   0.248000 
+102   0.191000 
+110   0.162000 
+103   0.148000 
+200   0.141000 
+112   0.138000 
+201   0.136000 
+004   0.130000 
+202   0.124000 
+104   0.118000 
+203   0.109000 

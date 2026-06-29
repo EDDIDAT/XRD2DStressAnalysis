@@ -1,0 +1,35 @@
+Dateiname:  SiC_hex.mpd
+ 
+Elementliste:
+Si  C   
+ 
+Stoechiometrieliste:
+  1.00    1.00   
+ 
+Ordnungszahlliste:
+  73.     6.   
+ 
+Atomgewichtsliste (in g/mol):
+  180.96    12.01   
+ 
+Materialdichte (in g/cm^3):
+  14.300
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.31758   0.501340
+
+hkl- und d-Wertliste:
+001	0.49378
+100	0.26872
+002	0.24689
+101	0.23603
+102	0.18180
+110	0.15515
+200	0.13436
+112 0.13136
+004	0.12344
+202	0.11801
+104	0.11217

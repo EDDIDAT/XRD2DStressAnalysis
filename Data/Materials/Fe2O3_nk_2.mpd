@@ -1,0 +1,32 @@
+Dateiname:  Fe2O3_nk_2.mpd
+ 
+Elementliste:
+Fe  O   
+ 
+Stoechiometrieliste:
+ 40.00   60.00   
+ 
+Ordnungszahlliste:
+  26.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  55.85    16.00   
+ 
+Materialdichte (in g/cm^3):
+  5.270
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+012   0.368230 
+104   0.269950 
+110   0.251760 
+113   0.220660 
+024   0.184110 
+116   0.169460 
+214   0.148610 
+300   0.145350 

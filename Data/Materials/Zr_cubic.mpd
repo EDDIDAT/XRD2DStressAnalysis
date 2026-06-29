@@ -1,0 +1,35 @@
+Dateiname:  Zr_cubic.mpd
+ 
+Elementliste:
+Zr   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  40.   
+ 
+Atomgewichtsliste (in g/mol):
+  91.224   
+ 
+Materialdichte (in g/cm^3):
+  6.386
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+0.362
+ 
+hkl- und d-Wertliste:
+101 0.25597 
+200 0.18100 
+211 0.14779 
+202 0.12799 
+301 0.11447 
+222 0.10450 
+321 0.09675 
+400 0.09050 
+411 0.08532 
+402 0.08095 
+323 0.07718 

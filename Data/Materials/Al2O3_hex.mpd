@@ -1,0 +1,48 @@
+Dateiname:  Al2O3_hex.mpd
+ 
+Elementliste:
+Al  O   
+ 
+Stoechiometrieliste:
+  2.00    3.00   
+ 
+Ordnungszahlliste:
+  13.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  26.98    16.00   
+ 
+Materialdichte (in g/cm^3):
+  4.111
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+0.476   1.2997
+ 
+hkl- und d-Wertliste:
+012   0.34813 
+104   0.25519 
+110   0.23803 
+006   0.21661 
+113   0.20862 
+202   0.19649 
+024   0.17406 
+116   0.16020 
+211   0.15472 
+122   0.15153 
+018   0.15115 
+214   0.14050 
+300   0.13743 
+125   0.13365 
+208   0.12759  
+119   0.12346
+217   0.11936	
+220   0.11901 
+036   0.11604 
+223   0.11476
+131   0.11390
+312   0.11261
+128   0.11246
+ 

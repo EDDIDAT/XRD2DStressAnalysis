@@ -1,0 +1,22 @@
+Dateiname:  FeNiCu.mpd
+ 
+Elementliste:
+Fe   Ni   Cu
+ 
+Stoechiometrieliste:
+  1.00   1.00   1.00  
+ 
+Ordnungszahlliste:
+  26.   28.   29.
+ 
+Atomgewichtsliste (in g/mol):
+  55.85   58.71   63.50
+ 
+Materialdichte (in g/cm^3):
+  8.970
+ 
+Gittertyp:
+fcc
+ 
+Gitterparameter (in nm):
+ 0.3579

@@ -1,0 +1,32 @@
+Dateiname:  Cr2O3_nk.mpd
+ 
+Elementliste:
+Cr  O   
+ 
+Stoechiometrieliste:
+  2.00    3.00   
+ 
+Ordnungszahlliste:
+  24.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  52.00    16.00   
+ 
+Materialdichte (in g/cm^3):
+  5.235
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+012   0.362960 
+104   0.266400 
+110   0.247900 
+113   0.217460 
+024   0.181480 
+116   0.167200 
+214   0.146430 
+300   0.143120 

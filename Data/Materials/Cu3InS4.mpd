@@ -1,0 +1,33 @@
+Dateiname: Cu3InS4.mpd
+
+Elementliste: 
+   Cu   In   S
+
+Stoechiometrieliste: 
+   3   1   4
+
+Ordnungszahlliste: 
+   29   49   16
+
+Atomgewichtsliste (in g/mol): 
+   63.546   114.82   32.06
+
+Materialdichte (in g/cm^3): 
+  4.437
+
+Gittertyp: 
+none 
+
+Gitterparameter (in nm): 
+   0.5455
+
+hkl- und d-Wertliste: 
+100 0.547
+161 0.487
+111 0.315
+200 0.273
+210 0.244
+211 0.222
+220 0.1927
+311 0.165
+222 0.1574

@@ -1,0 +1,31 @@
+Dateiname:  B19_NiTiCu.mpd
+ 
+Elementliste:
+Ti  Ni  Cu   
+ 
+Stoechiometrieliste:
+  5.00    4.00    1.00   
+ 
+Ordnungszahlliste:
+  22.    28.    29.   
+ 
+Atomgewichtsliste (in g/mol):
+  47.87    58.69    63.55   
+ 
+Materialdichte (in g/cm^3):
+  6.430
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+001   0.459900 
+101   0.258000 
+002   0.229700 
+020   0.207400 
+012   0.200700 
+022   0.154000 
+022   0.144700 

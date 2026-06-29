@@ -1,0 +1,36 @@
+Dateiname:  Fe2N3.mpd
+ 
+Elementliste:
+Fe  N   
+ 
+Stoechiometrieliste:
+  2.00    3.00   
+ 
+Ordnungszahlliste:
+  26.     7.   
+ 
+Atomgewichtsliste (in g/mol):
+  55.85    14.01   
+ 
+Materialdichte (in g/cm^3):
+ 21.381
+ 
+Gittertyp:
+hcp
+ 
+Gitterparameter (in nm):
+ 0.279700   0.441700 
+ 
+hkl- und d-Wertliste:
+001   0.441700 
+100   0.239620 
+002   0.220850 
+101   0.210620 
+102   0.162390 
+003   0.147230 
+110   0.138350 
+111   0.132020 
+103   0.125440 
+112   0.117240 
+201   0.115630 
+004   0.110420 

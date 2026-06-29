@@ -1,0 +1,31 @@
+Dateiname:  MnO2(tetr)_nk.mpd
+ 
+Elementliste:
+Mn  O   
+ 
+Stoechiometrieliste:
+  1.00    2.00   
+ 
+Ordnungszahlliste:
+  25.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  55.00    16.00   
+ 
+Materialdichte (in g/cm^3):
+  5.175
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+110   0.311410 
+101   0.240830 
+111   0.211300 
+211   0.162510 
+220   0.155700 
+301   0.130750 
+112   0.130570 

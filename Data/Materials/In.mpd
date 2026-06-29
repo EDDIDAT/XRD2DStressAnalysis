@@ -1,0 +1,43 @@
+Dateiname:  In.mpd
+ 
+Elementliste:
+In   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  49.   
+ 
+Atomgewichtsliste (in g/mol):
+ 114.82   
+ 
+Materialdichte (in g/cm^3):
+  7.300
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+101   0.271500 
+002   0.247100 
+110   0.229800 
+112   0.168300 
+200   0.162500 
+103   0.147000 
+211   0.139500 
+202   0.135800 
+004   0.123680 
+220   0.114930 
+213   0.109040 
+301   0.105870 
+222   0.104250 
+310   0.102820 
+204   0.098450 
+312   0.094950 
+303   0.090560 
+321   0.088740 
+215   0.081800 

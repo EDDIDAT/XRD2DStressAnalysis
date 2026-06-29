@@ -1,0 +1,32 @@
+Dateiname:  Be.mpd
+ 
+Elementliste:
+Be   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+   4.   
+ 
+Atomgewichtsliste (in g/mol):
+   9.01   
+ 
+Materialdichte (in g/cm^3):
+  1.820
+ 
+Gittertyp:
+hcp
+ 
+Gitterparameter (in nm):
+ 0.228600   0.358400
+ 
+hkl- und d-Wertliste:
+001    0.36
+100    0.19832
+002    0.18
+101    0.1737
+012    0.13328
+003    0.12
+110    0.1145
+111    0.10911

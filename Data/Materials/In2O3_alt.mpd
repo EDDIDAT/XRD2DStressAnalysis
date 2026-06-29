@@ -1,0 +1,45 @@
+Dateiname: In2O3.mpd
+
+Elementliste: 
+   In   O
+
+Stoechiometrieliste: 
+   2   3
+
+Ordnungszahlliste: 
+   49   8
+
+Atomgewichtsliste (in g/mol): 
+   114.82   15.9994
+
+Materialdichte (in g/cm^3): 
+  7.312
+
+Gittertyp: 
+none
+
+Gitterparameter (in nm): 
+   0.5487   1.451
+
+hkl- und d-Wertliste: 
+012 0.40551
+110 0.28235
+113 0.24663
+202 0.23379
+024 0.20676
+211 0.18624
+122 0.18234
+300 0.1664
+125 0.16072
+208 0.14417
+220 0.13717
+217 0.13574
+223 0.13197
+131 0.13125
+312 0.12967
+134 0.12387
+0210 0.12387
+315 0.12
+042 0.11724
+404 0.1129
+2110 0.1129

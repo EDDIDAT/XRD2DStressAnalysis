@@ -1,0 +1,33 @@
+Dateiname:  FeCr7C3.mpd
+ 
+Elementliste:
+Fe  Cr  C   
+ 
+Stoechiometrieliste:
+ 35.00   35.00   30.00   
+ 
+Ordnungszahlliste:
+  26.    24.     6.   
+ 
+Atomgewichtsliste (in g/mol):
+  56.00    52.00    12.00   
+ 
+Materialdichte (in g/cm^3):
+  7.175
+ 
+Gittertyp:
+hcp
+ 
+Gitterparameter (in nm):
+ 1.398000   0.452300 
+ 
+hkl- und d-Wertliste:
+420   0.230000 
+202   0.212000 
+421   0.204000 
+402   0.181000 
+440   0.174000 
+203   0.146000 
+403   0.135000 
+603   0.120000 
+750   0.116000 

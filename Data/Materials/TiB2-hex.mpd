@@ -1,0 +1,33 @@
+Dateiname:  TiB2-hex.mpd
+ 
+Elementliste:
+Ti  B 
+ 
+Stoechiometrieliste:
+  1.00    2.00
+ 
+Ordnungszahlliste:
+  22.     5.00
+ 
+Atomgewichtsliste (in g/mol):
+  47.88    10.811 
+Materialdichte (in g/cm^3):
+  4.520
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.3029   0.3228
+ 
+hkl- und d-Wertliste:
+001   0.32284
+100   0.26233
+101   0.20359
+002   0.16142
+110   0.15146
+102   0.13747
+111   0.13712
+200   0.13116
+201   0.12152
+112   0.11045

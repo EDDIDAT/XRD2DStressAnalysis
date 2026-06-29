@@ -1,0 +1,45 @@
+Dateiname:  alpha_Titan.mpd
+ 
+Elementliste:
+Ti   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  22.   
+ 
+Atomgewichtsliste (in g/mol):
+  47.88   
+ 
+Materialdichte (in g/cm^3):
+  4.510
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.295000   0.488000
+ 
+hkl- und d-Wertliste:
+100   0.25550
+002   0.23410
+101   0.22430
+102   0.17262
+110   0.14753
+103   0.13320
+200   0.12776
+112   0.12481
+201   0.12324
+004   0.11707
+202   0.11215
+104   0.10643
+203   0.09886
+210   0.09658
+211   0.09459
+114   0.09170
+212   0.08928
+105   0.08796
+204   0.08633
+300   0.08519
+301   0.08381

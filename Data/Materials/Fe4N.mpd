@@ -1,0 +1,35 @@
+Dateiname:  Fe4N.mpd
+ 
+Elementliste:
+Fe  N   
+ 
+Stoechiometrieliste:
+  4.00    1.00   
+ 
+Ordnungszahlliste:
+  26.     7.   
+ 
+Atomgewichtsliste (in g/mol):
+  55.85    14.01   
+ 
+Materialdichte (in g/cm^3):
+  7.241
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+100   0.379000 
+110   0.267990 
+111   0.218810 
+200   0.189500 
+210   0.169490 
+211   0.154720 
+220   0.133990 
+300   0.126330 
+310   0.119850 
+311   0.114270 
+222   0.109400 

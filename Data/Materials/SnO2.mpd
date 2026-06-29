@@ -1,0 +1,33 @@
+Dateiname: SnO2.mpd
+
+Elementliste: 
+   Sn   O
+
+Stoechiometrieliste: 
+   1   2
+
+Ordnungszahlliste: 
+   50   8
+
+Atomgewichtsliste (in g/mol): 
+   118.69   15.9994
+
+Materialdichte (in g/cm^3): 
+  7.086
+
+Gittertyp: 
+none
+Gitterparameter (in nm): 
+   0.472   0.317
+
+hkl- und d-Wertliste: 
+110 0.34
+101 0.267
+200 0.235
+211 0.177
+112 0.143
+202 0.132
+321 0.121
+222 0.116
+330 0.11
+331 0.105

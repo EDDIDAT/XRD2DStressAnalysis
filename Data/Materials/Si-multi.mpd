@@ -1,0 +1,47 @@
+Dateiname:  Si.mpd
+ 
+Elementliste:
+Si   
+ 
+Stoechiometrieliste:
+  1.00   
+ 
+Ordnungszahlliste:
+  14.   
+ 
+Atomgewichtsliste (in g/mol):
+  28.09   
+ 
+Materialdichte (in g/cm^3):
+  2.329
+ 
+Gittertyp:
+fcc
+ 
+Gitterparameter (in nm):
+0.543
+
+Volumen Elementarzelle (in nm^3):
+  0.16018
+ 
+Atompositionenliste:
+Si
+0 0 0
+0.5 0.5 0
+0.5 0 0.5
+0 0.5 0.5
+ 
+Atomformfaktorenliste:
+Si
+0  14
+1  11.35
+2  9.4
+3  8.2
+4  7.15
+5  6.1
+6  5.1
+7  4.2
+8  3.4
+9  2.95
+10  2.6
+11  2.3

@@ -1,0 +1,37 @@
+Dateiname:  NFM2.mpd
+ 
+Elementliste:
+Na Al Fe Mn Ni O 
+ 
+Stoechiometrieliste:
+  1.00    0.1   0.28   0.28   0.28   2.00      
+ 
+Ordnungszahlliste:
+  11.     13.     26.     25.     28.     16.  
+ 
+Atomgewichtsliste:
+  22.99    26.98    55.85    54.94    58.70    15.99   
+ 
+Materialdichte:
+  3.159
+  
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.2878   1.422
+ 
+hkl- und d-Wertliste:
+003 0.474
+101 0.24556
+006 0.237
+102 0.23526
+104 0.20411
+105 0.18747
+009 0.158
+107 0.15748
+108 0.14473
+110 0.14394
+113 0.13773
+201 0.12418
+116 0.12302

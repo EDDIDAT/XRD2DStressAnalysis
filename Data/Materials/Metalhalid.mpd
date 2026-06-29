@@ -1,0 +1,28 @@
+Dateiname:  Metalhalid.mpd
+ 
+Elementliste:
+C	H	I	Cs	Pb	Br   
+ 
+Stoechiometrieliste:
+  0.75   3.75	 4.20	0.25	1.00	0.30   
+ 
+Ordnungszahlliste:
+  6.     1.    53.     55.    82.    35.
+ 
+Atomgewichtsliste (in g/mol):
+  12.00		1.00    126.90    132.90    207.20    79.90   
+ 
+Materialdichte (in g/cm^3):
+  4.000
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+000   0.800584 
+000   0.619637 
+000   0.318225
+000   0.309476

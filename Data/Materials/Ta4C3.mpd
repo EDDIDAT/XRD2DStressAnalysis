@@ -1,0 +1,34 @@
+Dateiname:  Ta4C3.mpd
+ 
+Elementliste:
+Ta  C   
+ 
+Stoechiometrieliste:
+  4.00    3.00   
+ 
+Ordnungszahlliste:
+  73.     6.   
+ 
+Atomgewichtsliste (in g/mol):
+  180.95    12.01   
+ 
+Materialdichte (in g/cm^3):
+  14.300
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ 0.3123   3.0058
+
+hkl- und d-Wertliste:
+012 0.2655
+104 0.2544
+0012 0.2508
+015 0.2464
+107 0.2289
+018 0.2207
+1010 0.2008
+0011 0.1912
+0114 0.1675
+0117 0.148

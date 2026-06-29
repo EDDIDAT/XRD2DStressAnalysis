@@ -1,0 +1,46 @@
+Dateiname:  Zementit.mpd
+ 
+Elementliste:
+Fe C   
+ 
+Stoechiometrieliste:
+1.00  3.00   
+ 
+Ordnungszahlliste:
+26. 6.
+ 
+Atomgewichtsliste (in g/mol):
+55.85 12.01  
+ 
+Materialdichte (in g/cm^3):
+  7.675
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+
+011   0.37581
+020   0.33705
+111   0.30237
+200   0.25460
+133   0.121640 
+332   0.116220 
+303   0.112770 
+430   0.110760 
+121   0.238780 
+210   0.238170 
+002   0.226350 
+201   0.221910 
+211   0.210780 
+102   0.206830 
+220   0.203150 
+031   0.201270 
+112   0.197730 
+131   0.187170 
+221   0.185340 
+122   0.176280 
+040   0.168470 

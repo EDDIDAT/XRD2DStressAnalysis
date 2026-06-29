@@ -1,0 +1,31 @@
+Dateiname:  MnO2(orth)_nk.mpd
+ 
+Elementliste:
+Mn  O   
+ 
+Stoechiometrieliste:
+  1.00    2.00   
+ 
+Ordnungszahlliste:
+  25.     8.   
+ 
+Atomgewichtsliste (in g/mol):
+  55.00    16.00   
+ 
+Materialdichte (in g/cm^3):
+  4.883
+ 
+Gittertyp:
+none
+ 
+Gitterparameter (in nm):
+ not specified
+ 
+hkl- und d-Wertliste:
+110   0.401830 
+310   0.254840 
+201   0.243040 
+111   0.232370 
+211   0.213330 
+311   0.189920 
+221   0.164180 
